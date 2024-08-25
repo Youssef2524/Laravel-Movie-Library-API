@@ -1,12 +1,5 @@
-***************************************************MOVIE_LIBARY******************************************************
-*the project create use restful api
-*the project contact crud movie
-*the project contact crud rating
-*the project contact hight valid
-*the project contact Request and Resource
-*the project contact Service 
-*the project contact Seeder to create admin because rating in the movie name
-*the project contact doc
+***************************************************MOVIE_LIBARY******************************************************                                                                                            *the project create use restful api                                                                                                                                                                                  *the project contact crud movie                                                                                                                                                                                      *the project contact crud rating                                                                                                                                                                                     *the project contact hight valid                                                                                                                                                                                     *the project contact Request and Resource                                                                                                                                                                            *the project contact Service                                                                                                                                                                                         
+*the project contact Seeder to create admin because rating in the movie name                                                                                                                                         *the project contact doc                                                                                                                                                                                             
 *the project contact pagination، filtering، sorting.
 
 
